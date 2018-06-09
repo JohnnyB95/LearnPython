@@ -1,0 +1,10 @@
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+print "The first animal is at 1 and it is a " + animals[1]
+print "The second animal is at 2 and it is a " + animals[2]
+print "The third animal is at  0 and it is a " + animals[0]
+print animals[3]
+print animals[4]
+print animals[2]
+print animals[5]
+print animals[4]
